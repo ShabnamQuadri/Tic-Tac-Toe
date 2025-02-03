@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
-
-public class rockPaperScissors {
+// ROCK PAPER SCISSOR
+public class rockPaperScissors 
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         Random rc = new Random();
